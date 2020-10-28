@@ -1,0 +1,3 @@
+total feature indexed from 0 to 29622:
+Selected 16 features' indices are:
+9004, 3001, 27013, 15007, 7003, 999, 1000, 19009, 7000, 21010, 11005, 997, 1002, 5002, 998, 9005
