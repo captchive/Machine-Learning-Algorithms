@@ -1,0 +1,76 @@
+For breast_cancer split 0:
+original data: LinearSVC best C = 0.001 best CV error = 7.8% , test error = 5.1%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 0.001, best CV error = 18.6% , test error = 18.9%
+For K = 100:
+LinearSVC best C = 0.01 best CV error = 10.6% , test error = 12.7%
+For K = 1000:
+LinearSVC best C = 0.1 best CV error = 7.5% , test error = 13.0%
+For K = 10000:
+LinearSVC best C = 0.001 best CV error = 5.4% , test error = 11.0%
+
+
+For climate split 0:
+original data: LinearSVC best C = 10 best CV error = 4.7% , test error = 11.0%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 0.001, best CV error = 4.2% , test error = 4.5%
+For K = 100:
+LinearSVC best C = 0.001, best CV error = 4.2% , test error = 4.5%
+For K = 1000:
+LinearSVC best C = 0.001, best CV error = 4.2% , test error = 4.5%
+For K = 10000:
+LinearSVC best C = 0.001, best CV error = 6.5% , test error = 2.8%
+
+
+For hill_valley split 0:
+original data: LinearSVC best C = 0.001, best CV error = 0.2% , test error = 0.0%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 10, best CV error = 25.7% , test error = 25.0%
+For K = 100:
+LinearSVC best C = 100, best CV error = 25.2% , test error = 25.0%
+For K = 1000:
+LinearSVC best C = 10, best CV error = 33.7% , test error = 35.7%
+For K = 10000:
+LinearSVC best C = 100, best CV error = 29.1% , test error = 22.8%
+
+
+For ionosphere split 0:
+original data: LinearSVC best C = 0.1, best CV error = 14.0% , test error = 10.5%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 0.01, best CV error = 27.7% , test error = 31.7%
+For K = 100:
+LinearSVC best C = 0.001, best CV error = 17.9% , test error = 18.1%
+For K = 1000:
+LinearSVC best C = 0.01, best CV error = 9.6% , test error = 5.8%
+For K = 10000:
+LinearSVC best C = 0.001, best CV error = 7.0% , test error = 5.8%
+
+
+For qsar split 0:
+original data: LinearSVC best C = 1, best CV error = 16.8% , test error = 14.7%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 100, best CV error = 33.3% , test error = 17.0%
+For K = 100:
+LinearSVC best C = 0.001, best CV error = 33.5% , test error = 17.0%
+For K = 1000:
+LinearSVC best C = 1, best CV error = 39.2% , test error = 22.9%
+For K = 10000:
+LinearSVC best C = 0.1, best CV error = 37.9% , test error = 15.6%
+
+
+For micromass split 0:
+original data: LinearSVC best C = 0.001, best CV error = 35.2% , test error = 3.6%
+Random hyperplane data:
+For K = 10:
+LinearSVC best C = 0.1, best CV error = 46.1% , test error = 23.5%
+For K = 100:
+LinearSVC best C = 0.01, best CV error = 44.4% , test error = 20.3%
+For K = 1000:
+LinearSVC best C = 0.01, best CV error = 15.5% , test error = 0.6%
+For K = 10000:
+LinearSVC best C = 0.01, best CV error = 5.0% , test error = 5.0%
